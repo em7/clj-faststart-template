@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/faststart/lein-template.svg)](https://clojars.org/faststart/lein-template)
+
 # faststart
 
 Leiningen template for fast starting Clojure/Java application.
