@@ -8,7 +8,7 @@
 (defn faststart
   "Combined Java/Clojure program starting fast from console."
   [name]
-  (let [main-ns (multi-segment (sanitize-ns name))
+  (let [main-ns (sanitize-ns name)
 		data {:name name
 			  :namespace main-ns
               :sanitized (name-to-path name)}]
