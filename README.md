@@ -8,6 +8,9 @@ Is it worth parsing command line arguments, doing some work and calling the appl
 
 ## Usage
 
+Install [Leiningen](https://leiningen.org/) if you haven't and put it on your PATH.
+
+`lein new faststart your-app-name`
 
 
 ## License
